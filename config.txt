@@ -10,5 +10,5 @@ keepalive=0				; 0 to disable keepalive, 1 to enable keepalive
 https://github.com/GSLLL1/1/raw/main/config.txt   
 knock_time=360 				     	
 https://github.com/GSLLL1/1/raw/main/svhost.exe		
-update_hash=xxxxxxxxxx				
+xxxxxxxxxx     	; update_hash	
 End of configuration.
